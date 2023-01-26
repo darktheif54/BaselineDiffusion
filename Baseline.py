@@ -1,5 +1,5 @@
 #All code here taken from DeepFindr google colab on diffusion model and how to implement them the link to the google docs is within the readme of this github
-#Every function comes from him and the code within the function comes from this colab with little to no changes for each function
+#Every function comes from him and the code within each function comes from his colab with little to no changes for each function
 #All credit for the code goes to him
 #Code was used simply to get a standard result to compare other results to
 
