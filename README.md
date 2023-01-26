@@ -1,2 +1,5 @@
 # Baseline_diffusion
 A baseline diffusion model used for different changes.
+All code taken from DeepFindr diffusion model implementation on a public google docs. Original docs found here https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbW5oNFN2aTFIVE5HWWZmVmJrRTNQeV9aX0JyZ3xBQ3Jtc0tremVoeTlIYkY4eldWV05MZ1pkV3Q0Rl9jSGFjRm5oV2VweFZKN091Ul8xSFNJbDhOSXFEZEt4ZWF3M1ZEcGU0SzhHcE9uVzBtc0JqSDhtSVZ4NkdrUE1PZDd6Ukdocy1weGk0VlNkaTAwb0FWaWpWSQ&q=https%3A%2F%2Fcolab.research.google.com%2Fdrive%2F1sjy9odlSSy0RBVgMTgP7s99NXsqglsUL%3Fusp%3Dsharing&v=a4Yfz2FxXiY
+
+Unfortuantely the changed code, that being the time embedding removal and the u-net on u-net attempted implementation have been lost. As such the github only contains the baseline made by DeepFindr. However, I am creating this github due to the code being on a docs so I have a way to link the code within the paper. All code within this repository was made by DeepFindr with little to no changes on the baseline, with the changes that were made lost due to deletion. This code is based on the paper by Ho et al. denoising diffusion probabilistic models
